@@ -1,0 +1,4 @@
+C:\Users\User\SalesOrder\Backend\Infrastructure\obj\Release\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\SalesOrder\Backend\Infrastructure\obj\Release\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\SalesOrder\Backend\Infrastructure\obj\Release\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\User\SalesOrder\Backend\Infrastructure\obj\Release\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
